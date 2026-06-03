@@ -1,0 +1,6 @@
+list=[]
+list.append()
+copied_list=list.copy()
+copied_list.reverse()
+if(copied_list==list):
+    print("this is a palindrome number")
