@@ -1,0 +1,23 @@
+fruits=("apple","banana","cherry")
+print(fruits[0])
+print(fruits[-1])
+a=(1,2,3)
+b=(4,5)
+#concatenation
+print(a+b)
+#repetition
+print(a*2)
+#membership
+print(2 in a)
+#length
+print(len(a))
+numbers=(1,2,2,3,2)
+print(numbers.count(2))
+print(numbers.index(3))
+#packing
+person=("Alice",25,"Engineer")
+#unpacking
+name,age,job=person
+print(name)
+print(age)
+print(job)
