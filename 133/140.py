@@ -1,3 +1,4 @@
+print("Adarsh Kumar Jha")
 text="Hello"
 n=input("enter the character to be searched:")
 count=0

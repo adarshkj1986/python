@@ -1,3 +1,4 @@
+print("Adarsh Kumar Jha")
 text=input("enter the string")
 if(text==text[::-1]):
     print("this is palindrome")

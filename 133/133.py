@@ -1,4 +1,6 @@
+print("Adarsh Kumar Jha")
 text="Python"
+
 count=0
 for char in text:
     count+=1
